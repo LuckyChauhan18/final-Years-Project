@@ -107,10 +107,4 @@ Run training:
 python src/model_training.py
 ```
 
----
 
-If you want, I can improve the README further:
-✅ Add code examples
-✅ Add diagrams
-✅ Add model comparison tables
-✅ Make it GitHub-ready
